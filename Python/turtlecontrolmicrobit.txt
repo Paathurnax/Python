@@ -1,0 +1,4 @@
+tilting the microbit front and moves the turtle up and down
+moving the microbit left and right moves the turtle left and right
+pressing the button labelled "a" will change the color of the turtle to a random color
+pressing the button labelled "b" will draw a random shape from a star to an octagon 

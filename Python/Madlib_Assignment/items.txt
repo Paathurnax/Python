@@ -1,0 +1,13 @@
+crown
+neck
+glasses
+bucket
+monacle
+phone
+hat
+airpods
+water-bottle
+frisbee
+football
+basketball-hoop
+train

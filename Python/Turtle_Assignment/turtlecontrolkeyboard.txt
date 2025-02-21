@@ -1,0 +1,26 @@
+the escape key closes the window
+the f key makes the turtle do a flip
+the space key makes the turtle "jump"
+the w key makes the turtle turn towards and move north
+the s key makes the turtle turn towards and move south
+the a key makes the turtle turn towards and move west
+the d key makes the turtle turn towards and move east
+the j key makes the turtle visible
+the h key hides the turtle
+the e key makes the turtle turn 90 degrees left
+the q key changes the screen background color using user input
+the r key makes the turtle red
+the o key maked the turtle orange
+the y key makes the turtle yellow
+the g key makes the turtle green
+the b key makes the turtle blue
+the i key makes the turtle indigo
+the v key makes the turtle violet
+the 0 key draws a circle
+the 1 key draws a triangle
+the 2 key draws a square 
+the 3 key draws a pentagon
+the 4 key draws a hexagon
+the 5 key draws a septagon
+the 6 key draws a octagon
+the 7 key draws a star

@@ -1,0 +1,10 @@
+house
+ladder
+car
+hill
+mountain
+country-side
+wall
+building
+stairs
+stairway-to-heavan

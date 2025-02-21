@@ -1,0 +1,11 @@
+flying
+falling
+gliding
+skating
+flipping
+running
+walking
+sprinting
+speeding
+sliding
+prancing
